@@ -2,6 +2,11 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/Guilherme/Desktop/CursoJava/src/br/edu/ifsp/slt/cursojava/controller/consultarcliente/ConsultarClienteCodigoController.java</file>
+            <file>file:/C:/Users/Guilherme/Desktop/CursoJava/src/br/edu/ifsp/slt/cursojava/view/ClienteView.java</file>
+            <file>file:/C:/Users/Guilherme/Desktop/CursoJava/src/br/edu/ifsp/slt/cursojava/view/ConsultarClienteView.java</file>
+            <file>file:/C:/Users/Guilherme/Desktop/CursoJava/src/br/edu/ifsp/slt/cursojava/model/business/ClienteBusiness.java</file>
+        </group>
     </open-files>
 </project-private>

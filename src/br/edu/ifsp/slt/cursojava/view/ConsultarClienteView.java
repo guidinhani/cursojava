@@ -490,6 +490,10 @@ public final class ConsultarClienteView extends javax.swing.JInternalFrame {
         } else {
             ConsultarClienteCodigoController consultarClienteCodigoController = new ConsultarClienteCodigoController(clienteBusiness);
             Cliente cliente = consultarClienteCodigoController.executar(Integer.parseInt(txtCodigo.getText()));
+            if (cliente == null) {
+                JOptionPane.showMessageDialog(null, "Cliente não encontrado!");
+                return;
+            }
             preencherJTable(cliente);
         }
     }//GEN-LAST:event_btnConsultarCodigoActionPerformed
